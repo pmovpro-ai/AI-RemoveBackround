@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Home",
+    "blog": "Blog",
+    "about": "About Us",
+    "contact": "Contact",
+    "upload": "Upload Image"
+  },
+  "hero": {
+    "title": "Remove Background AI in Seconds",
+    "subtitle": "Remove image backgrounds instantly using AI for free. No signup required. Fast, secure and professional.",
+    "cta": "Upload Image",
+    "supported": "Supported formats: JPG, JPEG, PNG, WEBP"
+  },
+  "tool": {
+    "dragDrop": "Drag & Drop Image Here",
+    "orClick": "or click to browse",
+    "processing": "AI is removing background...",
+    "download": "Download Transparent PNG",
+    "changeBg": "Change Background Color",
+    "original": "Original",
+    "removed": "Removed",
+    "error": "Error removing background. Please try again.",
+    "customColor": "Custom Color",
+    "downloadEdited": "Download Edited Image",
+    "processingWarning": "It might take a few moments on the first run to download the AI model securely to your browser."
+  },
+  "features": {
+    "title": "Why Choose Remove Background AI?",
+    "aiPowered": { "title": "AI Powered", "desc": "Advanced artificial intelligence precisely detects foregrounds." },
+    "fast": { "title": "Fast Processing", "desc": "Get results in seconds completely in your browser." },
+    "transparent": { "title": "Transparent PNG", "desc": "Download high-quality transparent PNG images." },
+    "changeBg": { "title": "Change Background", "desc": "Replace with solid colors instantly." },
+    "free": { "title": "Free to Use", "desc": "100% free with no registration required." },
+    "secure": { "title": "Secure Uploads", "desc": "Your images are processed locally. Nothing is sent to our servers." }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "step1": { "title": "Step 1", "desc": "Upload Image" },
+    "step2": { "title": "Step 2", "desc": "AI Removes Background" },
+    "step3": { "title": "Step 3", "desc": "Download PNG" }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "copyright": "© 2026 Remove Background AI. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "dmca": "DMCA",
+    "disclaimer": "Disclaimer",
+    "cookie": "Cookie Policy"
+  }
+}
